@@ -39,7 +39,7 @@ Traefik
 - Pingora: YAML
 - Envoy: YAML
 
-## Infrastructure as Code
+### Infrastructure as Code
 
 Terraform
 - https://registry.tf-registry-prod-use1.terraform.io/providers/getstackhead/nginx/latest/docs
