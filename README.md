@@ -9,17 +9,15 @@ mindmap
       Load balancing
       Reverse proxy
       Static file serving
-    Configuration
-      File format
-        Own DSL
-        YAML
-        TOML
     Equivalent
       Apache
       Pingora
       Envoy
       Linkerd2-proxy
       Traefik
+    Configuration
+      File format
+        Own DSL
 ```
 
 ## Usage of web servers broken down by ranking
