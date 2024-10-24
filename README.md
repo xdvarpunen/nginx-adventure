@@ -2,6 +2,26 @@
 
 Going through nginx capabilities.
 
+```mermaid
+mindmap
+  root((Nginx))
+    Capabilities
+      Load balancing
+      Reverse proxy
+      Static file serving
+    Configuration
+      File format
+        Own DSL
+        YAML
+        TOML
+    Equivalent
+      Apache
+      Pingora
+      Envoy
+      Linkerd2-proxy
+      Traefik
+```
+
 ## Usage of web servers broken down by ranking
 
 Nginx is the #1 web server at the 100,000 busiest websites in the world.
