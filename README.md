@@ -28,6 +28,10 @@ Linkerd
 - Linkerd2-proxy: https://linkerd.io/2020/12/03/why-linkerd-doesnt-use-envoy/
 - Github: https://github.com/linkerd/linkerd2-proxy
 
+Traefik
+- https://cast.ai/blog/traefik-vs-nginx/
+- Github: https://github.com/traefik/traefik
+
 ## Capabilities
 
 - serve static files
