@@ -8,6 +8,10 @@ Nginx is the #1 web server at the 100,000 busiest websites in the world.
 
 https://w3techs.com/technologies/cross/web_server/ranking
 
+## Equivalent
+
+- Pingora: https://blog.cloudflare.com/how-we-built-pingora-the-proxy-that-connects-cloudflare-to-the-internet/
+
 ## Capabilities
 
 - serve static files
