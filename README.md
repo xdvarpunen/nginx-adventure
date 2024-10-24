@@ -34,7 +34,7 @@ Traefik
 
 ## Configuration language
 - Apache: Own DSL
-- NGinx: Own DSL
+- Nginx: Own DSL
 - Traefik: YAML/TOML
 - Pingora: YAML
 - Envoy: YAML
