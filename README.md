@@ -10,6 +10,11 @@ https://w3techs.com/technologies/cross/web_server/ranking
 
 ## Equivalent
 
+Apache vs Nginx
+- Homepage: https://httpd.apache.org/
+- https://www.digitalocean.com/community/tutorials/apache-vs-nginx-practical-considerations
+> For static content, which Nginx excels at, files or other directives will be served quickly and directly to the client. For dynamic content, for instance PHP files, Nginx will proxy the request to Apache, which can then process the results and return the rendered page. Nginx can then pass the content back to the client.
+
 Cloudflare
 - Pingora: https://blog.cloudflare.com/how-we-built-pingora-the-proxy-that-connects-cloudflare-to-the-internet/
 - Github: https://github.com/cloudflare/pingora
