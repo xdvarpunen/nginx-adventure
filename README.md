@@ -120,3 +120,7 @@ Nginx is a powerful web server and reverse proxy that offers a wide range of cap
 
 These capabilities make Nginx a versatile choice for handling a wide range of web traffic and application architectures.
 ```
+
+## Features depending on version
+
+https://wtit.com/compare-nginx-models-nginx-open-source-os-vs-plus-free-vs-paid/
