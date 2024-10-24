@@ -10,7 +10,18 @@ https://w3techs.com/technologies/cross/web_server/ranking
 
 ## Equivalent
 
+Cloudflare
 - Pingora: https://blog.cloudflare.com/how-we-built-pingora-the-proxy-that-connects-cloudflare-to-the-internet/
+- Github: https://github.com/cloudflare/pingora
+
+Lyft
+- Envoy: https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy
+- Homepage: https://www.envoyproxy.io/
+- Github: https://github.com/envoyproxy/envoy
+
+Linkerd
+- Linkerd2-proxy: https://linkerd.io/2020/12/03/why-linkerd-doesnt-use-envoy/
+- Github: https://github.com/linkerd/linkerd2-proxy
 
 ## Capabilities
 
