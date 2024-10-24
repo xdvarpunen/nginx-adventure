@@ -123,4 +123,7 @@ These capabilities make Nginx a versatile choice for handling a wide range of we
 
 ## Features depending on version
 
-https://wtit.com/compare-nginx-models-nginx-open-source-os-vs-plus-free-vs-paid/
+- https://docs.nginx.com/nginxaas/azure/overview/feature-comparison/
+- https://wtit.com/compare-nginx-models-nginx-open-source-os-vs-plus-free-vs-paid/
+- https://docs.nginx.com/nginxaas/azure/overview/overview/
+- https://learn.microsoft.com/en-us/azure/partner-solutions/nginx/nginx-overview
