@@ -32,6 +32,13 @@ Traefik
 - https://cast.ai/blog/traefik-vs-nginx/
 - Github: https://github.com/traefik/traefik
 
+## Configuration language
+- Apache: Own DSL
+- NGinx: Own DSL
+- Traefik: YAML/TOML
+- Pingora: YAML
+- Envoy: YAML
+
 ## Infrastructure as Code
 
 Terraform
