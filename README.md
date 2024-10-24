@@ -48,6 +48,10 @@ Ansible
 - https://github.com/nginxinc/ansible-role-nginx-config
 - https://symfonycasts.com/screencast/ansible/nginx-conf-template
 
+Terraform and Ansible together
+- https://spacelift.io/blog/using-terraform-and-ansible-together
+> Terraform is used to manage your infrastructure, but Ansible is a better option if you want to install and configure software on your compute instances. You could use Terraform’s provisioners to achieve Ansible’s configuration management capabilities, but they are unreliable, and even HashiCorp recommends using them as a last resort. That’s why using Terraform and Ansible together can improve your workflows.
+
 ## Capabilities
 
 - serve static files
