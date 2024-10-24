@@ -2,6 +2,12 @@
 
 Going through nginx capabilities.
 
+## Usage of web servers broken down by ranking
+
+Nginx is the #1 web server at the 100,000 busiest websites in the world.
+
+https://w3techs.com/technologies/cross/web_server/ranking
+
 ## Capabilities
 
 - serve static files
