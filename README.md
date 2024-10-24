@@ -32,6 +32,15 @@ Traefik
 - https://cast.ai/blog/traefik-vs-nginx/
 - Github: https://github.com/traefik/traefik
 
+## Infrastructure as Code
+
+Terraform
+- https://registry.tf-registry-prod-use1.terraform.io/providers/getstackhead/nginx/latest/docs
+
+Ansible
+- https://github.com/nginxinc/ansible-role-nginx-config
+- https://symfonycasts.com/screencast/ansible/nginx-conf-template
+
 ## Capabilities
 
 - serve static files
