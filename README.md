@@ -22,6 +22,11 @@ mindmap
       Ansible
         Install
         Configure
+    Cost
+      Free
+        Nginx Open Source
+      Paid
+        Nginx Plus
 ```
 
 ## Usage of web servers broken down by ranking
