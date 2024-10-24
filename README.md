@@ -27,6 +27,8 @@ mindmap
         Nginx Open Source
       Paid
         Nginx Plus
+      Azure
+        NGINXaaS for Azure
 ```
 
 ## Usage of web servers broken down by ranking
