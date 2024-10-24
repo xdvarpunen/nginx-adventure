@@ -18,6 +18,10 @@ mindmap
     Configuration
       File format
         Own DSL
+    Automation
+      Ansible
+        Install
+        Configure
 ```
 
 ## Usage of web servers broken down by ranking
