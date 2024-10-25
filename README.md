@@ -65,7 +65,8 @@ Traefik
 - Apache: Own DSL
 - Nginx: Own DSL
 - Traefik: YAML/TOML
-- Pingora: YAML
+- Linkerd2-proxy: ?
+- Pingora: Rust
 - Envoy: YAML
 
 ## Infrastructure as Code
