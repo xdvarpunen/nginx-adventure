@@ -65,7 +65,7 @@ Traefik
 - Apache: Own DSL
 - Nginx: Own DSL
 - Traefik: YAML/TOML
-- Linkerd2-proxy: ?
+- Linkerd2-proxy: handful of environment variables set at injection time and by the Linkerd control plane at runtime
 - Pingora: Rust
 - Envoy: YAML
 
