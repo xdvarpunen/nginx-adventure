@@ -29,6 +29,9 @@ mindmap
         Nginx Plus
       Azure
         NGINXaaS for Azure
+    Nginx Unit
+      Cost
+        Free
 ```
 
 ## Usage of web servers broken down by ranking
