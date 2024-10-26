@@ -44,6 +44,10 @@ mindmap
           Ruby
           WebAssembly (Wasm)
       Web architecture indepemdent
+      Unit tools
+        setup-unit
+        unitc
+        unitctl
 ```
 
 ## Usage of web servers broken down by ranking
