@@ -32,6 +32,18 @@ mindmap
     Nginx Unit
       Cost
         Free
+      Capabilities
+        Static file serving
+        Runs application code
+          Go
+          Java
+          Node.js
+          Perl
+          PHP
+          Python
+          Ruby
+          WebAssembly (Wasm)
+      Web architecture indepemdent
 ```
 
 ## Usage of web servers broken down by ranking
