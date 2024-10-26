@@ -48,6 +48,9 @@ mindmap
         setup-unit
         unitc
         unitctl
+      RESTful JSON API
+        dynamic updates
+        zero interruptions
 ```
 
 ## Usage of web servers broken down by ranking
