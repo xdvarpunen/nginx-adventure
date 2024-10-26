@@ -43,7 +43,7 @@ mindmap
           Python
           Ruby
           WebAssembly (Wasm)
-      Web architecture indepemdent
+      Web architecture independent
       Unit tools
         setup-unit
         unitc
