@@ -51,6 +51,13 @@ mindmap
       RESTful JSON API
         dynamic updates
         zero interruptions
+  Nginx One
+    A global SaaS offering
+    All-in-one package
+    Installation independent
+      On-premise
+      In the cloud
+      At the edge
 ```
 
 ## Usage of web servers broken down by ranking
