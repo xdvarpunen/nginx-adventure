@@ -51,13 +51,13 @@ mindmap
       RESTful JSON API
         dynamic updates
         zero interruptions
-  Nginx One
-    A global SaaS offering
-    All-in-one package
-    Installation independent
-      On-premise
-      In the cloud
-      At the edge
+    Nginx One
+      A global SaaS offering
+      All-in-one package
+      Installation independent
+        On-premise
+        In the cloud
+        At the edge
 ```
 
 ## Usage of web servers broken down by ranking
@@ -164,3 +164,7 @@ These capabilities make Nginx a versatile choice for handling a wide range of we
 
 - https://github.com/nginx/unit
 - https://unit.nginx.org/keyfeatures/
+
+## Nginx One
+
+- https://www.f5.com/products/nginx/one
